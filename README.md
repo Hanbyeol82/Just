@@ -12,9 +12,9 @@
         </div>
         <div class="social">
             <h2>Hi</h2>
-            <a href="[https://www.instagram.com/yourprofile](https://www.instagram.com/xuhhxnbxeol/)" target="_blank">Instagram</a>
-            <a href="[https://www.facebook.com/yourprofile](https://music.apple.com/profile/starwars)" target="_blank">Apple music</a>
-            <a href="[https://www.twitter.com/yourprofile](https://m.blog.naver.com/hanbyeol82-)" target="_blank">Blog</a>
+            <a href="https://www.instagram.com/xuhhxnbxeol/" target="_blank">Instagram</a>
+            <a href="https://music.apple.com/profile/starwars" target="_blank">Apple music</a>
+            <a href="https://m.blog.naver.com/hanbyeol82-" target="_blank">Blog</a>
         </div>
     </div>
 </body>
