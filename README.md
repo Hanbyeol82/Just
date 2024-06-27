@@ -11,7 +11,7 @@
             <!-- 추가 사진들을 여기에 넣으세요 -->
         </div>
         <div class="social">
-            <h2>소셜 미디어</h2>
+            <h2>Hi</h2>
             <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a>
             <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a>
             <a href="https://www.twitter.com/yourprofile" target="_blank">Twitter</a>
