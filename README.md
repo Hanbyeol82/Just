@@ -12,10 +12,9 @@
         </div>
         <div class="social">
             <h2>Hi</h2>
-            <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a>
-            <a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a>
-            <a href="https://www.twitter.com/yourprofile" target="_blank">Twitter</a>
-            <!-- 추가 소셜 미디어 링크를 여기에 넣으세요 -->
+            <a href="[https://www.instagram.com/yourprofile](https://www.instagram.com/xuhhxnbxeol/)" target="_blank">Instagram</a>
+            <a href="[https://www.facebook.com/yourprofile](https://music.apple.com/profile/starwars)" target="_blank">Apple music</a>
+            <a href="[https://www.twitter.com/yourprofile](https://m.blog.naver.com/hanbyeol82-)" target="_blank">Blog</a>
         </div>
     </div>
 </body>
